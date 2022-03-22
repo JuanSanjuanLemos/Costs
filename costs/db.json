@@ -1,0 +1,63 @@
+{
+  "projects": [
+    {
+      "name": "Alfajor",
+      "budget": "121",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Traveler",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1111,
+      "services": [
+        {
+          "name": "sasaS",
+          "cost": "111",
+          "description": "um ai",
+          "id": "458f5af5-d6dd-4675-baee-18a66d37c7c1"
+        },
+        {
+          "name": "Dev Front-end",
+          "cost": "500",
+          "description": "um ai",
+          "id": "25368252-6328-48e1-8357-106853765bba"
+        },
+        {
+          "name": "Dev Back-end",
+          "cost": "500",
+          "description": "um ai",
+          "id": "da93738a-0722-420c-95d4-32519631fff9"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
